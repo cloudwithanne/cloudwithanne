@@ -1,10 +1,10 @@
-#Anne Usang
-#### Cloud Computing and DevOps
+# Anne Usang
+## Cloud Computing and DevOps
 ![Cloud Computing and DevOps](https://media.licdn.com/dms/image/D4D16AQFZryNMyqUxZw/profile-displaybackgroundimage-shrink_350_1400/0/1689325206455?e=1703721600&v=beta&t=L7HJEDPkoeIGTdgvMrH_3cUPPdmM2PeP3ahOUQ4HSUM)
 
 I am Anne Usang, an AWS Certified Cloud Practitioner, Tech Leader and content creator with a goal to inspire the next Generation of Cloud Innovators. I possess a solid foundational knowledge of essential AWS services, cloud computing principles, and security best practices. I am well-versed in AWS fundamentals, cost optimization, and basic architectural considerations. 
 
-##Skills
+## Skills
 ☁AWS 
 🌺Linux 
 💻Network
