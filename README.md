@@ -1,12 +1,15 @@
-### Hi there 👋
-
-### Hi there 👋, **my name is Anne Usang**
+#Anne Usang
 #### Cloud Computing and DevOps
 ![Cloud Computing and DevOps](https://media.licdn.com/dms/image/D4D16AQFZryNMyqUxZw/profile-displaybackgroundimage-shrink_350_1400/0/1689325206455?e=1703721600&v=beta&t=L7HJEDPkoeIGTdgvMrH_3cUPPdmM2PeP3ahOUQ4HSUM)
 
 I am Anne Usang, an AWS Certified Cloud Practitioner, Tech Leader and content creator with a goal to inspire the next Generation of Cloud Innovators. I possess a solid foundational knowledge of essential AWS services, cloud computing principles, and security best practices. I am well-versed in AWS fundamentals, cost optimization, and basic architectural considerations. 
 
-Skills: AWS, Linux, Network, Python, Docker
+##Skills
+☁AWS 
+🌺Linux 
+💻Network
+🚀Python 
+🌠Docker
 
 - 🔭 I’m currently working on Building DevOps projects 
 - 🌱 I’m currently learning Improving my DevOps skills 
