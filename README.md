@@ -2,18 +2,18 @@
 ## Cloud Computing and DevOps
 ![Cloud Computing and DevOps]([https://media.licdn.com/dms/image/D4D16AQFZryNMyqUxZw/profile-displaybackgroundimage-shrink_350_1400/0/1689325206455?e=1703721600&v=beta&t=L7HJEDPkoeIGTdgvMrH_3cUPPdmM2PeP3ahOUQ4HSUM](https://github.com/cloudwithanne/cloudwithanne/blob/main/Cloud%20Computing.png))
 
-I am Anne Usang, an AWS Certified Cloud Practitioner, Tech Leader and content creator with a goal to inspire the next Generation of Cloud Innovators. I possess a solid foundational knowledge of essential AWS services, cloud computing principles, and security best practices. I am well-versed in AWS fundamentals, cost optimization, and basic architectural considerations. 
+I am Anne Usang, an AWS Certified Cloud Practitioner, Tech Leader and content creator with a goal to inspire the next Generation of Cloud Innovators. I possess a solid foundational knowledge of essential AWS services, cloud computing principles, and security best practices. I am well-versed in AWS fundamentals, cost optimization, and cloud architectural considerations. 
 
 ## Skills
 ☁AWS 
 🌺Linux 
 💻Network
 🚀Python 
-🌠Docker
+🌠Terraform
 
-- 🔭 I’m currently working on Building DevOps projects 
-- 🌱 I’m currently learning Improving my DevOps skills 
-- 👯 I’m looking to collaborate on DevOps projects 
+- 🔭 I’m currently working on building relevant cloud projects
+- 🌱 I’m currently learning cloud engineering
+- 👯 I’m looking to collaborate on cloud projects 
 - 💬 Ask me about Cloud Computing and AWS 
 - ⚡ Fun fact: I don't know how to ride a bicycle yet😂 
 
