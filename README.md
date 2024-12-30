@@ -14,6 +14,6 @@ Anne Usang is a skilled technical project manager with expertise in cloud soluti
 - **AWS Cloud Club Captain (University of Uyo):** Organized training sessions and events to build a community of AWS enthusiasts  
 
 ## 📈 Let's Connnect  
-- **LinkedIn:** [Anne Usang](https://linkedin.com/in/anneusang), **Twitter:** [@annecloud](https://twitter.com/anneusang), **Send a Mail:** [Mail](anneusang@proton.me)
+- **LinkedIn:** [Anne Usang](https://linkedin.com/in/anneusang), **Twitter:** [@annecloud](https://twitter.com/anneusang), **Send a Mail:** [Mail](AnneUsang@proton.me)
 - **YouTube:** [Cloud With Anne](https://youtube.com/@cloudwithanne)
 
