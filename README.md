@@ -10,10 +10,12 @@ Anne is a dynamic AWS Solutions Architect and Technical Project Manager with exp
 - **Passions:** Teaching, mentoring, and building connections in the tech community  
 
 ## 💼 Projects and Initiatives  
-- **Founder, CWA Academy:** Building a network of Africans who are building and developing solutions within the African ecosystem leveraging on cloud computing.   
+- **Founder, [CWA Academy](https://www.linkedin.com/company/cwa-academy/):** Building a network of Africans who are building and developing solutions within the African ecosystem leveraging on cloud computing.   
 - **AWS Cloud Club Captain (University of Uyo):** Organized training sessions and events to build a community of AWS enthusiasts  
 
 ## 📈 Let's Connnect
 - **YouTube:** [Cloud With Anne](https://youtube.com/@cloudwithanne)  
 - **LinkedIn:** [Anne Usang](https://linkedin.com/in/anneusang)  
 - **Twitter:** [@annecloud](https://twitter.com/anneusang)  
+
+
