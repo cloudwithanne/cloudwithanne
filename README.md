@@ -1,11 +1,11 @@
-# 👋 Hi, I'm Anne Usang  
+# 👋 Yo! I'm Anne Usang  
 
 🚀 **AWS Certified Solutions Architect | AWS Cloud Clubs Certified Instructor**  
 
 Anne is a dynamic AWS Solutions Architect and Technical Project Manager with experience in designing scalable cloud architectures and leading cross-functional teams to deliver complex cloud solutions.
 
 ## 🌟 About Me  
-- **Certifications:** AWS Certified Solutions Architect,AWS Certified Cloud Practitioner 
+- **Certifications:** AWS Certified Solutions Architect, AWS Certified Cloud Practitioner 
 - **Skills:** Core AWS Services, Linux, Networking, Terraform, Bash Scripting, Security, Databases and Monitoring
 - **Passions:** Teaching, mentoring, and building connections in the tech community  
 
