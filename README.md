@@ -2,7 +2,7 @@
 
 🚀 **AWS Certified Solutions Architect | AWS Cloud Clubs Certified Instructor**  
 
-Anne is a dynamic AWS Solutions Architect and Technical Project Manager with experience in designing scalable cloud architectures and leading cross-functional teams to deliver complex cloud solutions.
+Anne Usang is a skilled technical project manager with expertise in cloud solutions, AWS, and infrastructure management. With a solid foundation in leading cloud-centric initiatives such as, infrastructure automation, and cost optimization. She has led cross-functional teams to deliver complex tech solutions.
 
 ## 🌟 About Me  
 - **Certifications:** AWS Certified Solutions Architect, AWS Certified Cloud Practitioner 
@@ -13,9 +13,7 @@ Anne is a dynamic AWS Solutions Architect and Technical Project Manager with exp
 - **Founder, [CWA Academy](https://www.linkedin.com/company/cwa-academy/):** Building a network of Africans who are building and developing solutions within the African ecosystem leveraging on cloud computing.   
 - **AWS Cloud Club Captain (University of Uyo):** Organized training sessions and events to build a community of AWS enthusiasts  
 
-## 📈 Let's Connnect
-- **YouTube:** [Cloud With Anne](https://youtube.com/@cloudwithanne)  
-- **LinkedIn:** [Anne Usang](https://linkedin.com/in/anneusang)  
-- **Twitter:** [@annecloud](https://twitter.com/anneusang)  
-
+## 📈 Let's Connnect  
+- **LinkedIn:** [Anne Usang](https://linkedin.com/in/anneusang), **Twitter:** [@annecloud](https://twitter.com/anneusang), **Send a Mail:** [Mail](anneusang@proton.me)
+- **YouTube:** [Cloud With Anne](https://youtube.com/@cloudwithanne)
 
